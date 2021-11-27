@@ -1,0 +1,5 @@
+file1 = open('data.txt', 'w')
+file1.write('Hello all')
+file1.seek(6)
+file1.write('Dev-Ops Geeks')
+file1.close()

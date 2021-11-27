@@ -1,0 +1,3 @@
+id,name,salary,age,position,technology,email,password,management_type
+1,hossam,6000,30,senior,backend,hossam@gmail.com,123456,admin
+2,ahmed,8000,31,senior,dev-ops,ahmed@gmail.com,2456789,employee
